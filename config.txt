@@ -1,0 +1,4 @@
+image_dir=images
+
+# Number of OCR workers
+n_workers=2
